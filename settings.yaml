@@ -1,0 +1,11 @@
+folder_in: /new/path/to/input
+folder_out: /new/path/to/output
+folder_ext: /new/path/to/external1
+folder_ext2: /new/path/to/external2
+count: 10
+bs: 2M
+type: tar.gz
+ip: 192.168.0.1
+user: new_user
+password: 123456
+valid: All systems green
