@@ -1,5 +1,5 @@
 import yaml
-from tests.sshcheckers import ssh_checkout_negative
+from ssh_checkers import ssh_checkout_negative
 
 with open('settings.yaml') as f:
     data = yaml.safe_load(f)

@@ -1,6 +1,6 @@
 import yaml
 
-from tests.sshcheckers import ssh_checkout
+from ssh_checkers import ssh_checkout
 
 with open('settings.yaml') as f:
     data = yaml.safe_load(f)
